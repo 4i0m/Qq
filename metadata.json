@@ -1,0 +1,8 @@
+{
+  "name": "Q — Global Android Network",
+  "description": "Premium global social network featuring unified identity, progression, custom titles \u0026 badges, events, messaging, and multi-tier moderation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
